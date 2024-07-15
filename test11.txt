@@ -1,0 +1,3 @@
+if game.PlaceId == 2597632885 then you 
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ttuws/Burhtom/main/Protected_1747261984275232.txt"))()
+  elseif game.PlaceId == 4566572536 then
